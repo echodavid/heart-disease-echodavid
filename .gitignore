@@ -1,0 +1,32 @@
+# Entornos virtuales
+venv/
+.env/
+*.env/
+venv38
+
+# Archivos de configuración de entorno
+.env
+*.env
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+
+# Archivos de logs
+*.log
+
+# Archivos de bases de datos
+*.sqlite3
+
+# Archivos de dependencias
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Archivos de Jupyter
+.ipynb_checkpoints
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
